@@ -18,7 +18,7 @@ const DUMMY_PLACES = [
   },
   {
     id: "p2",
-    title: "Empire State Building",
+    title: "Bla bla bla",
     description: "One of the most famous sky scrapers in the world!",
     imageUrl:
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDEBJkFS90_vL1EhCQ5bRquRPE20ow_36vTg&s",
@@ -30,7 +30,7 @@ const DUMMY_PLACES = [
     creator: "u2",
   },
 ];
-const UserPlaces = (props) => {
+const UserPlaces = () => {
   const userId = useParams().userId;
   const loadedPlaces = DUMMY_PLACES.filter((place) => place.creator === userId);
   return <PlaceList items={loadedPlaces} />;
