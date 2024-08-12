@@ -1,16 +1,20 @@
 import React from "react";
 import { Link } from "react-router-dom";
-import "./UsersItems.css";
-import Avatar from "../../shared/components/UIElement/Avatar";
-import Card from "../../shared/components/UIElement/Card";
 
-const UsersItem = (props) => {
+import Avatar from "../../shared/components/UIElements/Avatar";
+import Card from "../../shared/components/UIElements/Card";
+import "./UserItem.css";
+
+const UserItem = (props) => {
   return (
     <li className="user-item">
       <Card className="user-item__content">
         <Link to={`/${props.id}/places`}>
           <div className="user-item__image">
-            <Avatar image={props.image} alt={props.name} />
+            <Avatar
+              image={`https://merndemo-2.onrender.com/${props.image}`}
+              alt={props.name}
+            />
           </div>
           <div className="user-item__info">
             <h2>{props.name}</h2>
@@ -24,4 +28,4 @@ const UsersItem = (props) => {
   );
 };
 
-export default UsersItem;
+export default UserItem;

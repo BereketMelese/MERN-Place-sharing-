@@ -15,8 +15,7 @@
 
 .form-control input,
 .form-control textarea {
-  margin-left: 2%;
-  width: 95%;
+  width: 100%;
   font: inherit;
   border: 1px solid #ccc;
   background: #f8f8f8;

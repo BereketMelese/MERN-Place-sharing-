@@ -9,7 +9,6 @@
 .place-item__info {
   padding: 1rem;
   text-align: center;
-  background-color: white;
 }
 
 .place-item__image {
@@ -34,7 +33,6 @@
   padding: 1rem;
   text-align: center;
   border-top: 1px solid #ccc;
-  background-color: white;
 }
 
 .place-item__modal-content {
@@ -58,5 +56,5 @@
 @media (min-width: 768px) {
   .place-item__image {
     height: 20rem;
-  }
+  } 
 }
