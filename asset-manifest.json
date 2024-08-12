@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MERN-Place-sharing-/static/css/main.33b97b24.css",
+    "main.js": "/MERN-Place-sharing-/static/js/main.e210fb79.js",
+    "static/css/119.bff325c6.chunk.css": "/MERN-Place-sharing-/static/css/119.bff325c6.chunk.css",
+    "static/js/119.66820b74.chunk.js": "/MERN-Place-sharing-/static/js/119.66820b74.chunk.js",
+    "static/css/981.18b2a130.chunk.css": "/MERN-Place-sharing-/static/css/981.18b2a130.chunk.css",
+    "static/js/981.763ed2b0.chunk.js": "/MERN-Place-sharing-/static/js/981.763ed2b0.chunk.js",
+    "static/css/67.853fd0e0.chunk.css": "/MERN-Place-sharing-/static/css/67.853fd0e0.chunk.css",
+    "static/js/67.734f0327.chunk.js": "/MERN-Place-sharing-/static/js/67.734f0327.chunk.js",
+    "static/css/830.34496153.chunk.css": "/MERN-Place-sharing-/static/css/830.34496153.chunk.css",
+    "static/js/830.613c7c3a.chunk.js": "/MERN-Place-sharing-/static/js/830.613c7c3a.chunk.js",
+    "static/css/220.b08eb560.chunk.css": "/MERN-Place-sharing-/static/css/220.b08eb560.chunk.css",
+    "static/js/220.009f072b.chunk.js": "/MERN-Place-sharing-/static/js/220.009f072b.chunk.js",
+    "static/js/216.00497f8b.chunk.js": "/MERN-Place-sharing-/static/js/216.00497f8b.chunk.js",
+    "index.html": "/MERN-Place-sharing-/index.html",
+    "main.33b97b24.css.map": "/MERN-Place-sharing-/static/css/main.33b97b24.css.map",
+    "main.e210fb79.js.map": "/MERN-Place-sharing-/static/js/main.e210fb79.js.map",
+    "119.bff325c6.chunk.css.map": "/MERN-Place-sharing-/static/css/119.bff325c6.chunk.css.map",
+    "119.66820b74.chunk.js.map": "/MERN-Place-sharing-/static/js/119.66820b74.chunk.js.map",
+    "981.18b2a130.chunk.css.map": "/MERN-Place-sharing-/static/css/981.18b2a130.chunk.css.map",
+    "981.763ed2b0.chunk.js.map": "/MERN-Place-sharing-/static/js/981.763ed2b0.chunk.js.map",
+    "67.853fd0e0.chunk.css.map": "/MERN-Place-sharing-/static/css/67.853fd0e0.chunk.css.map",
+    "67.734f0327.chunk.js.map": "/MERN-Place-sharing-/static/js/67.734f0327.chunk.js.map",
+    "830.34496153.chunk.css.map": "/MERN-Place-sharing-/static/css/830.34496153.chunk.css.map",
+    "830.613c7c3a.chunk.js.map": "/MERN-Place-sharing-/static/js/830.613c7c3a.chunk.js.map",
+    "220.b08eb560.chunk.css.map": "/MERN-Place-sharing-/static/css/220.b08eb560.chunk.css.map",
+    "220.009f072b.chunk.js.map": "/MERN-Place-sharing-/static/js/220.009f072b.chunk.js.map",
+    "216.00497f8b.chunk.js.map": "/MERN-Place-sharing-/static/js/216.00497f8b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.33b97b24.css",
+    "static/js/main.e210fb79.js"
+  ]
+}
